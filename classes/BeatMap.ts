@@ -141,3 +141,4 @@ export class ColorBoostEvent extends BeatMapObject {
     public get boost (): boolean { return this.o; }
     public set boost (value: boolean) { this.o = value; }
 }
+
